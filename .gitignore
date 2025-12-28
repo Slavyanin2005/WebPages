@@ -2,7 +2,7 @@
 **/node_modules/
 
 # Игнорировать dist/build папки
-**/dist/
+!LAB2/dist/   
 **/build/
 
 # Зависимости и логи
